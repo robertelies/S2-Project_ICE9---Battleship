@@ -1,0 +1,15 @@
+As explained in the readme file, the database that this project uses is 
+provided through the remoteMySql.com service. This is an online database, 
+becuase of the nature of this service, it does not require you to create 
+any tables, however sometimes there are connectivity issues where the service
+has time out issues. This can be solved by restarting the intellij project and 
+building the project once again.
+
+If opening the datagrip project doesnt show the session initialised,
+please use the information below to log into the online database:
+
+URL: jdbc:mysql://remotemysql.com:3306/rOpEOsqC8q
+Database: rOpEOsqC8q
+
+User: rOpEOsqC8q
+Password: WvJEOs5qkD

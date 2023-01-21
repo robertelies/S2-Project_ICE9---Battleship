@@ -1,0 +1,16 @@
+unnamed package
+Business.Entities
+Business.manager
+Persistance.Config
+Persistance.Database
+Persistance.Game
+Presentation.Controller.Board
+Presentation.Controller.Listeners
+Presentation.Controller.Subcontrollers
+Presentation.View.MainView
+Presentation.View.Subviews
+Presentation.View.Subviews.PanelFeatures
+Presentation.View.Subviews.PlayerScreenElements
+Presentation.View.Subviews.PlayerScreenElements.BoardFeatures
+Presentation.View.Subviews.StatisticsGraphs.BarFeatures
+Presentation.View.Subviews.StatisticsGraphs.PieFeatures

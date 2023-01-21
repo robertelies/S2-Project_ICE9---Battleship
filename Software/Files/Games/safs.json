@@ -1,0 +1,2843 @@
+{
+  "gameID": 14,
+  "gameName": "safs",
+  "player": {
+    "user": {
+      "username": "pau",
+      "password": "password",
+      "rgb": -4590720
+    },
+    "board": {
+      "board": [
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": true,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ],
+        [
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": false,
+            "inShip": false,
+            "who_shot": 0
+          },
+          {
+            "hit": true,
+            "inShip": false,
+            "who_shot": 0
+          }
+        ]
+      ],
+      "ships": [
+        {
+          "positions": [
+            [
+              2,
+              9
+            ],
+            [
+              3,
+              9
+            ],
+            [
+              4,
+              9
+            ],
+            [
+              5,
+              9
+            ],
+            [
+              6,
+              9
+            ]
+          ],
+          "cellsLeft": 0
+        },
+        {
+          "positions": [
+            [
+              11,
+              1
+            ],
+            [
+              12,
+              1
+            ],
+            [
+              13,
+              1
+            ],
+            [
+              14,
+              1
+            ]
+          ],
+          "cellsLeft": 0
+        },
+        {
+          "positions": [
+            [
+              13,
+              11
+            ],
+            [
+              14,
+              11
+            ]
+          ],
+          "cellsLeft": 0
+        },
+        {
+          "positions": [
+            [
+              5,
+              6
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              7,
+              6
+            ]
+          ],
+          "cellsLeft": 0
+        },
+        {
+          "positions": [
+            [
+              6,
+              13
+            ],
+            [
+              7,
+              13
+            ],
+            [
+              8,
+              13
+            ]
+          ],
+          "cellsLeft": 0
+        }
+      ],
+      "shipsAlive": 0
+    }
+  },
+  "numAI": 1,
+  "inGameAI": [
+    {
+      "myBoard": {
+        "board": [
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": true,
+              "inShip": false,
+              "who_shot": 1
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": true,
+              "inShip": false,
+              "who_shot": 1
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": true,
+              "inShip": false,
+              "who_shot": 1
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": true,
+              "inShip": false,
+              "who_shot": 1
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": true,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ],
+          [
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            },
+            {
+              "hit": false,
+              "inShip": false,
+              "who_shot": 0
+            }
+          ]
+        ],
+        "ships": [
+          {
+            "positions": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                11
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                11
+              ]
+            ],
+            "cellsLeft": 5
+          },
+          {
+            "positions": [
+              [
+                6,
+                11
+              ],
+              [
+                6,
+                12
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                6,
+                14
+              ]
+            ],
+            "cellsLeft": 4
+          },
+          {
+            "positions": [
+              [
+                14,
+                4
+              ],
+              [
+                14,
+                5
+              ]
+            ],
+            "cellsLeft": 2
+          },
+          {
+            "positions": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                9
+              ],
+              [
+                12,
+                9
+              ]
+            ],
+            "cellsLeft": 3
+          },
+          {
+            "positions": [
+              [
+                9,
+                14
+              ],
+              [
+                10,
+                14
+              ],
+              [
+                11,
+                14
+              ]
+            ],
+            "cellsLeft": 3
+          }
+        ],
+        "shipsAlive": 5
+      },
+      "time": 1000,
+      "player_id": 0
+    }
+  ],
+  "duration": "00:02:43"
+}

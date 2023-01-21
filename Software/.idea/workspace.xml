@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60970720-36c3-4f6a-9837-29ecce317f17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/Entities/AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/Entities/AI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/Entities/MyClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/Entities/MyClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/Entities/UserShotTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/Entities/UserShotTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/manager/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/manager/GameManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/manager/StatisticsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/manager/StatisticsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business/manager/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Business/manager/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persistance/Game/GameJSONDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persistance/Game/GameJSONDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/View/Subviews/PlayerScreenElements/JBackgroundPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/Subviews/PlayerScreenElements/JBackgroundPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="8" />
+  </component>
+  <component name="ProjectId" id="27v9x7TG34G0jrRREEDWPX3V74c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adril\OneDrive\Desktop\OOP\Sem 2\Project_Folder\Project_Git\Files\Games" />
+      <recent name="C:\Users\adril\OneDrive\Desktop\OOP\Sem 2\Project_Folder\Project_Git\Files" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Persistance.Database" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project_Git" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60970720-36c3-4f6a-9837-29ecce317f17" name="Changes" comment="" />
+      <created>1650189936141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650189936141</updated>
+      <workItem from="1650189937632" duration="135000" />
+      <workItem from="1650190107038" duration="5455000" />
+      <workItem from="1650209057647" duration="15000" />
+      <workItem from="1650209365833" duration="7180000" />
+      <workItem from="1650375114065" duration="2228000" />
+      <workItem from="1650548388907" duration="192000" />
+      <workItem from="1650548987965" duration="94000" />
+      <workItem from="1650549154720" duration="19000" />
+      <workItem from="1650549194180" duration="76000" />
+      <workItem from="1650549389399" duration="3347000" />
+      <workItem from="1652163355770" duration="1861000" />
+      <workItem from="1652181805327" duration="4000" />
+      <workItem from="1652182430562" duration="675000" />
+      <workItem from="1652342662745" duration="102000" />
+      <workItem from="1652430230590" duration="56000" />
+      <workItem from="1652430295896" duration="53000" />
+      <workItem from="1652430357597" duration="77000" />
+      <workItem from="1652430493454" duration="361000" />
+      <workItem from="1652542451729" duration="49000" />
+      <workItem from="1652542557276" duration="252000" />
+      <workItem from="1652542821422" duration="627000" />
+      <workItem from="1652543472139" duration="6220000" />
+      <workItem from="1652612650369" duration="3885000" />
+      <workItem from="1652980441954" duration="4827000" />
+      <workItem from="1653033543469" duration="4388000" />
+      <workItem from="1653322123292" duration="9310000" />
+      <workItem from="1653371961166" duration="2320000" />
+      <workItem from="1653375722232" duration="9067000" />
+      <workItem from="1653486891442" duration="12339000" />
+      <workItem from="1653558001966" duration="1047000" />
+      <workItem from="1653569042730" duration="1317000" />
+      <workItem from="1653756224799" duration="6158000" />
+      <workItem from="1653765445356" duration="1831000" />
+      <workItem from="1653815484672" duration="11521000" />
+      <workItem from="1653827332231" duration="5131000" />
+      <workItem from="1653846932844" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Business/Entities/UserShotTimer.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Presentation/Controller/Subcontrollers/StatisticsMenuController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Presentation/Controller/Subcontrollers/StatisticsMenuController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Persistance/Game/GameJSONDAO.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Business/manager/GameManager.java</url>
+          <line>378</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Presentation/Controller/Subcontrollers/BattleViewController.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="gameManager.getGame().getBoards()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
